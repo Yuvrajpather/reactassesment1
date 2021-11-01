@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yuvrajpather/reactassesment1/static/css/main.3c52aa59.chunk.css",
+    "main.js": "/Yuvrajpather/reactassesment1/static/js/main.e1a07b2b.chunk.js",
+    "main.js.map": "/Yuvrajpather/reactassesment1/static/js/main.e1a07b2b.chunk.js.map",
+    "runtime-main.js": "/Yuvrajpather/reactassesment1/static/js/runtime-main.b4820c7f.js",
+    "runtime-main.js.map": "/Yuvrajpather/reactassesment1/static/js/runtime-main.b4820c7f.js.map",
+    "static/js/2.ba70f0c7.chunk.js": "/Yuvrajpather/reactassesment1/static/js/2.ba70f0c7.chunk.js",
+    "static/js/2.ba70f0c7.chunk.js.map": "/Yuvrajpather/reactassesment1/static/js/2.ba70f0c7.chunk.js.map",
+    "static/js/3.197b0ec4.chunk.js": "/Yuvrajpather/reactassesment1/static/js/3.197b0ec4.chunk.js",
+    "static/js/3.197b0ec4.chunk.js.map": "/Yuvrajpather/reactassesment1/static/js/3.197b0ec4.chunk.js.map",
+    "index.html": "/Yuvrajpather/reactassesment1/index.html",
+    "static/css/main.3c52aa59.chunk.css.map": "/Yuvrajpather/reactassesment1/static/css/main.3c52aa59.chunk.css.map",
+    "static/js/2.ba70f0c7.chunk.js.LICENSE.txt": "/Yuvrajpather/reactassesment1/static/js/2.ba70f0c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4820c7f.js",
+    "static/js/2.ba70f0c7.chunk.js",
+    "static/css/main.3c52aa59.chunk.css",
+    "static/js/main.e1a07b2b.chunk.js"
+  ]
+}
